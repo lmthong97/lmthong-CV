@@ -381,9 +381,10 @@ function Home(props) {
                       data-aos="fade-up"
                       data-aos-anchor-placement="top-bottom"
                     >
+                      
                       <a href="#web-development">
                         <figure className="cc-effect">
-                          <img src="assets/images/project-1.jpg" alt="" />
+                          <img src="assets/images/project-1.jpg" alt="project-1" />
                           <figcaption>
                             <div className="h4">Recent Project</div>
                             <p>Web Development</p>
