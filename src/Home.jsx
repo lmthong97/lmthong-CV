@@ -98,7 +98,14 @@ function Home(props) {
                 >
                   Hire Me
                 </a>
-                
+                <a
+                  className="btn btn-primary smooth-scroll mr-2"
+                  href="assets/cv/leminhthong.pdf"
+                  data-aos="zoom-in"
+                  data-aos-anchor="data-aos-anchor"
+                >
+                  Download CV
+                </a>
               </div>
             </div>
             <div className="section">
